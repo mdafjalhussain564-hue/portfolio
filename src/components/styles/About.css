@@ -30,6 +30,34 @@
   letter-spacing: 1px;
 }
 
+.about-resume-wrap {
+  margin-top: 30px;
+}
+
+.about-resume-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 26px;
+  border-radius: 30px;
+  background: rgba(196, 129, 255, 0.1);
+  border: 1px solid rgba(196, 129, 255, 0.4);
+  color: #c481ff;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.about-resume-btn:hover {
+  background: #c481ff;
+  color: #0b080c;
+  box-shadow: 0 0 25px rgba(196, 129, 255, 0.45);
+  transform: translateY(-2px);
+}
+
 @media only screen and (min-width: 600px) {
   .about-section {
     justify-content: center;

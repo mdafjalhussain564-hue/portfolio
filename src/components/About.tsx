@@ -1,3 +1,4 @@
+import { MdArrowOutward } from "react-icons/md";
 import "./styles/About.css";
 
 const About = () => {
@@ -6,10 +7,19 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I'm Afjal, a passionate Frontend Developer with hands-on experience building responsive, production web applications using React.js, JavaScript, HTML5, and CSS3. Experienced converting UI designs into reusable components and integrating APIs to deliver seamless user experiences.
         </p>
+        <div className="about-resume-wrap">
+          <a
+            href="/resume.pdf"
+            target="_blank"
+            rel="noreferrer"
+            className="about-resume-btn"
+            data-cursor="disable"
+          >
+            Check Resume <MdArrowOutward />
+          </a>
+        </div>
       </div>
     </div>
   );

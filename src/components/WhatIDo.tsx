@@ -90,21 +90,20 @@ const WhatIDo = () => {
               <h3>DEVELOP</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Building responsive, high-performance web applications using modern JavaScript (ES6+), React.js, and Next.js with robust API integration and clean component architecture.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
+                <div className="what-tags">JavaScript (ES6+)</div>
+                <div className="what-tags">React.js</div>
                 <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">HTML5</div>
+                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Tailwind CSS</div>
+                <div className="what-tags">Bootstrap</div>
+                <div className="what-tags">Node.js</div>
+                <div className="what-tags">Git</div>
+                <div className="what-tags">GitHub</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -131,19 +130,18 @@ const WhatIDo = () => {
               <h3>DESIGN</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Converting Figma designs into pixel-perfect, reusable React components with seamless cross-device responsiveness, interactive micro-states, and clean code practices.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">Responsive Design</div>
+                <div className="what-tags">UI Development</div>
+                <div className="what-tags">Figma to Code</div>
+                <div className="what-tags">API Integration</div>
+                <div className="what-tags">Debugging</div>
+                <div className="what-tags">Clean Code</div>
+                <div className="what-tags">Netlify</div>
+                <div className="what-tags">VS Code</div>
               </div>
               <div className="what-arrow"></div>
             </div>
