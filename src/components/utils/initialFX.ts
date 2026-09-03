@@ -1,4 +1,4 @@
-import { SplitText } from "./SplitTextHelper";
+import { SplitText } from "gsap/SplitText";
 import gsap from "gsap";
 import { smoother } from "../Navbar";
 
